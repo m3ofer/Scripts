@@ -8,5 +8,5 @@
 - kp.sh : uses fzf,xargs,ps,kill to generate a bash built task manager that can only kill programs.
 [[./pix/wc.gif]]
 - wc.sh : a tool to copy text from displayed texts.
-
+[[./pix/vimv.gif]]
 - vimv  : a stolen script from [[https://github.com/thameera/vimv]] basically bulkrename files the same way ranger does.
