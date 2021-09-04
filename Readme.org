@@ -1,4 +1,2 @@
 * Bash Scripts
 [[./bash.png]]
-- wifi
-- bluetouth
