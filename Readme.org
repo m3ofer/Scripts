@@ -1,3 +1,4 @@
 * Bash Scripts
 [[./bash.png]]
-** there are alot of fucking things
+- wifi
+- bluetouth
